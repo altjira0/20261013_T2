@@ -22,3 +22,5 @@ if cuota_menual < int( 30/100 * (sueldo_mensual)):
     print("Condenda a favor")
 else:
     print("Por ahora eres libre pero homeless :) :")
+
+    
